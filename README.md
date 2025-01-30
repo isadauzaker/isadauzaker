@@ -56,5 +56,5 @@ Olá! Me chamo Isadora Dauzaker, tenho 16 anos e sou uma estudante de programaç
    
 </p>
 <div align="left">
-  <img src="https://i.pinimg.com/originals/f5/d4/75/f5d475dcbc657830c77ab317d34611aa.gif" width="236" />
+  <img src="https://i.pinimg.com/originals/f5/d4/75/f5d475dcbc657830c77ab317d34611aa.gif" width="380" />
 </div>
