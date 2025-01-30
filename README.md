@@ -51,10 +51,11 @@ Olá! Me chamo Isadora Dauzaker, tenho 16 anos e sou uma estudante de programaç
 <br/>
 
 ## Estatísticas
-<p>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=isadauzaker&include_all_commits=true&show_icons=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false" align = "center"/>&nbsp;&nbsp;
-   
-</p>
+<div align="left">
+    <a href="https://github.com/GabrielaSenna">
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=isadauzaker&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isadauzaker&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
 <div align="left">
   <img src="https://i.pinimg.com/originals/f5/d4/75/f5d475dcbc657830c77ab317d34611aa.gif" width="380" />
 </div>
