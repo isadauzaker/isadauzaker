@@ -64,9 +64,7 @@ Oi! Sou Isadora Dauzaker, tenho 16 anos e estou no terceiro ano do ensino médio
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isadauzaker&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
       <br/>
-<div align="left">
-  <img src="https://i.pinimg.com/originals/f5/d4/75/f5d475dcbc657830c77ab317d34611aa.gif" width="380" />
-</div>
+
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/isadauzaker/isadauzaker/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/isadauzaker/isadauzaker/output/github-contribution-grid-snake-dark.svg">
