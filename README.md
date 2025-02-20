@@ -9,7 +9,7 @@
 Oi! Sou Isadora Dauzaker, tenho 16 anos e estou no terceiro ano do ensino médio. Estudante de programação e apaixonada por tecnologia, atualmente curso Técnico em Desenvolvimento de Sistemas no SENAI Florianópolis. Estou explorando e aprimorando minhas habilidades na área! 🚀
 <div>
   <a href="https://instagram.com/isavdauzaker" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/isadora-victor-dauzaker-421320329/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
    <a href = "mailto:isadoravictor7@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
