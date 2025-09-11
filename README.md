@@ -4,7 +4,7 @@
   </a>
 </div>
 
-## Oi! Sou Isadora Dauzaker
+## Olá! Sou a Isadora Dauzaker
 
 Estudante de programação e apaixonada por tecnologia, atualmente curso Técnico em Desenvolvimento de Sistemas no SENAI Florianópolis.
 <div>
