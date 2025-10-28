@@ -63,10 +63,4 @@ Estudante de programação e apaixonada por tecnologia, atualmente curso Técnic
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=isadauzaker&show_icons=true&theme=tokyonight"/>
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isadauzaker&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
-      <br/>
-
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/isadauzaker/isadauzaker/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/isadauzaker/isadauzaker/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/isadauzaker/isadauzaker/output/github-contribution-grid-snake.svg">
-</picture>
+     
